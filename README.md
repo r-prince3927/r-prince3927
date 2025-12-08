@@ -20,16 +20,6 @@
   | *Languages* | Python, Java  |
   | *Web Development* | HTML, CSS, React |
   | *Tools & Platforms* | Git, GitHub, VS Code, Linux |
-  
-  ---
-  
-  ### 💡 Projects
-  
-  Here are a few projects I've been working on. You can find more on my profile!
-  
-  - <b>AppImage Manager:</b> AppImage Manager for managing (install/Uninstall permanently) standalone AppImage softwares.
-  - <b>Universal Media Downloader:</b> A Universal Media Downloader website that allows to download videos and other media files from websites.
- 
   ---
   ### 📫 Get In Touch
   
