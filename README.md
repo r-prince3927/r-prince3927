@@ -24,8 +24,8 @@
   ### 📫 Get In Touch
   
   - <b>GitHub:</b> [r-prince3927](https://github.com/r-prince3927)
-  - <b>LinkedIn:</b> [Prince Kumar](www.linkedin.com/in/prince-kumar-387092353)
-  - <b>Email:</b> [princekumar3927@gmail.com](mail to:princekumar3927@gmail.com)
+  - <b>LinkedIn:</b> [Prince Kumar](https://www.linkedin.com/in/prince-kumar-387092353)
+  - <b>Email:</b> (mail to:princekumar3927@gmail.com)
 
   <br>
   
@@ -33,7 +33,7 @@
     <img src="https://komarev.com/ghpvc/?username=r-prince-3927&color=blueviolet" alt="Profile views">
   </p>
 
-</div>)
+</div>
   - <b>LinkedIn:</b> [Prince Kumar](www.linkedin.com/in/prince-kumar-387092353)
   - <b>Email:</b> [princekumar3927@gmail.com](mailto:princekumar3927@gmail.com)
 
