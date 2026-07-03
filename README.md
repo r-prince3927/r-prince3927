@@ -39,18 +39,3 @@
 
   <br>
   
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=r-prince3927&color=blueviolet" alt="Profile views">
-  </p>
-
-</div>
-  - <b>LinkedIn:</b> [Prince Kumar](www.linkedin.com/in/prince-kumar-387092353)
-  - <b>Email:</b> [princekumar3927@gmail.com](mailto:princekumar3927@gmail.com)
-
-  <br>
-  
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=r-prince3927&color=blueviolet" alt="Profile views">
-  </p>
-
-</div>
